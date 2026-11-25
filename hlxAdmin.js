@@ -56,7 +56,7 @@ const operations = {
       url,
       headers: {
         'User-Agent': 'insomnia/10.1.1-adobe',
-        'x-hlx-auth': process.env.AEM_AUTH_TOKEN,
+        'x-auth-token': process.env.AEM_AUTH_TOKEN,
       },
     });
 
