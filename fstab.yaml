@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p241558-e2403520.adobeaemcloud.com/bin/franklin.delivery/yuki-ogura-acn/aem-ue/main"
-    type: "markup"
-    suffix: ".html"
