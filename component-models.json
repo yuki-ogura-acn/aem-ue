@@ -20,6 +20,14 @@
         "name": "keywords",
         "multi": true,
         "label": "Keywords"
+      },
+      {
+        "component": "aem-tag",
+        "valueType": "string",
+        "name": "cq:tags",
+        "description": "Select an AEM tag",
+        "label": "AEM Tag Picker",
+        "rootPath": "/content/cq:tags/wknd-shared"
       }
     ]
   },
