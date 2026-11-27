@@ -239,6 +239,18 @@
     ]
   },
   {
+    "id": "raw-html",
+    "fields": [
+      {
+        "component": "textarea",
+        "name": "html",
+        "value": "",
+        "label": "Html",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "teaser",
     "fields": [
       {
