@@ -25,7 +25,8 @@
                 "name": "html",
                 "value": "",
                 "label": "Html",
-                "valueType": "string"
+                "valueType": "string",
+                "raw": true
                 }
             ]
         }
