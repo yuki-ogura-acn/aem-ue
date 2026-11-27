@@ -150,6 +150,21 @@
     ]
   },
   {
+    "id": "adventure-cf",
+    "fields": [
+      {
+        "component": "aem-content-fragment",
+        "name": "path",
+        "value": "",
+        "label": "Content Fragment path",
+        "variationName": "contentFragmentVariation",
+        "validation": {
+          "rootPath": "/content/dam/wknd-shared/en/adventures"
+        }
+      }
+    ]
+  },
+  {
     "id": "card",
     "fields": [
       {
@@ -220,6 +235,18 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "raw-html",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "html",
+        "label": "Html",
+        "valueType": "string",
+        "required": true
       }
     ]
   },
