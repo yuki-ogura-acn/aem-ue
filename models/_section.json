@@ -52,7 +52,8 @@
         "columns",
         "fragment",
         "teaser",
-        "adventure-cf"
+        "adventure-cf",
+        "raw-html"
       ]
     }
   ]
