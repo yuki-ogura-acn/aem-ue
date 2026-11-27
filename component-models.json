@@ -242,11 +242,11 @@
     "id": "raw-html",
     "fields": [
       {
-        "component": "textarea",
+        "component": "richtext",
         "name": "html",
-        "value": "",
         "label": "Html",
-        "valueType": "string-multiline"
+        "valueType": "string",
+        "required": true
       }
     ]
   },
